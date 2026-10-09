@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:end_stone"
+        },
+        "state": { "Name": "bliss_smp_mod:end_stone_wealth_ore" }
+      }
+    ],
+    "size": 4,
+    "discard_chance_on_air_exposure": 1.0
+  }
+}

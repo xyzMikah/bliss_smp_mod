@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:nether_ore_replaceables"
+        },
+        "state": { "Name": "bliss_smp_mod:netherrack_astra_ore" }
+      }
+    ],
+    "size": 5,
+    "discard_chance_on_air_exposure": 1.0
+  }
+}

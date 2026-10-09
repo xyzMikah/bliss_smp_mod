@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bliss_smp_mod:block/puff_ore"
+    }
+  }
+}

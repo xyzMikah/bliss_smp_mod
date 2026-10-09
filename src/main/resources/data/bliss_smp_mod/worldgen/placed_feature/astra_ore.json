@@ -1,0 +1,16 @@
+{
+  "feature": "bliss_smp_mod:astra_ore",
+  "placement": [
+    { "type": "minecraft:rarity_filter", "chance": 3 },
+    { "type": "minecraft:in_square" },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": { "absolute": -51 },
+        "max_inclusive": { "absolute": -41 }
+      }
+    },
+    { "type": "minecraft:biome" }
+  ]
+}

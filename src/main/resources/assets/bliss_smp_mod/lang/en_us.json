@@ -1,0 +1,74 @@
+{
+  "item.bliss_smp_mod.astra_gem": "Astra Gem",
+  "item.bliss_smp_mod.flux_gem": "Flux Gem",
+  "item.bliss_smp_mod.life_gem": "Life Gem",
+  "item.bliss_smp_mod.puff_gem": "Puff Gem",
+  "item.bliss_smp_mod.speed_gem": "Speed Gem",
+  "item.bliss_smp_mod.wealth_gem": "Wealth Gem",
+  "item.bliss_smp_mod.strength_gem": "Strength Gem",
+  "item.bliss_smp_mod.fire_gem": "Fire Gem",
+
+  "item.bliss_smp_mod.raw_astra": "Raw Astra",
+  "item.bliss_smp_mod.raw_life": "Raw Life",
+  "item.bliss_smp_mod.raw_puff": "Raw Puff",
+  "item.bliss_smp_mod.raw_speed": "Raw Speed",
+  "item.bliss_smp_mod.raw_wealth": "Raw Wealth",
+  "item.bliss_smp_mod.raw_strength": "Raw Strength",
+
+  "item.bliss_smp_mod.astra_ore": "Astra Ore",
+  "item.bliss_smp_mod.life_ore": "Life Ore",
+  "item.bliss_smp_mod.puff_ore": "Puff Ore",
+  "item.bliss_smp_mod.speed_ore": "Speed Ore",
+  "item.bliss_smp_mod.strength_ore": "Strength Ore",
+  "item.bliss_smp_mod.wealth_ore": "Wealth Ore",
+
+  "item.bliss_smp_mod.end_stone_astra_ore": "End Stone Astra Ore",
+  "item.bliss_smp_mod.end_stone_life_ore": "End Stone Life Ore",
+  "item.bliss_smp_mod.end_stone_puff_ore": "End Stone Puff Ore",
+  "item.bliss_smp_mod.end_stone_speed_ore": "End Stone Speed Ore",
+  "item.bliss_smp_mod.end_stone_strength_ore": "End Stone Strength Ore",
+  "item.bliss_smp_mod.end_stone_wealth_ore": "End Stone Wealth Ore",
+
+  "item.bliss_smp_mod.netherrack_astra_ore": "Netherrack Astra Ore",
+  "item.bliss_smp_mod.netherrack_life_ore": "Netherrack Life Ore",
+  "item.bliss_smp_mod.netherrack_puff_ore": "Netherrack Puff Ore",
+  "item.bliss_smp_mod.netherrack_speed_ore": "Netherrack Speed Ore",
+  "item.bliss_smp_mod.netherrack_strength_ore": "Netherrack Strength Ore",
+  "item.bliss_smp_mod.netherrack_wealth_ore": "Netherrack Wealth Ore",
+
+  "itemgroup.bliss_smp_gems": "Bliss SMP Gems",
+
+  "tooltip.bliss_smp_mod.astra_gem.passive":  "§5§lPassive §r§7| §fSonic Aura §8— sculk particles orbit you; nearby enemies get Blindness + Slowness every 5s",
+  "tooltip.bliss_smp_mod.astra_gem.active1":  "§d§lRight-Click §r§7| §fSonic Boom §8— 25-block cone, 20 HP damage §7[30s CD]",
+  "tooltip.bliss_smp_mod.astra_gem.active2":  "§d§lShift+Hit §r§7| §fSculk Snare §8— freeze target (Slowness X, 3s) + Glowing §7[10s CD]",
+
+  "tooltip.bliss_smp_mod.fire_gem.passive":   "§c§lPassive §r§7| §fInferno Core §8— permanent Fire Resistance; Night Vision in lava",
+  "tooltip.bliss_smp_mod.fire_gem.active1":   "§6§lRight-Click §r§7| §fSoul Ring §8— ignites a ring of soul fire around you (r=8) §7[25s CD]",
+  "tooltip.bliss_smp_mod.fire_gem.active2":   "§6§lShift+RC §r§7| §fInferno Shot §8— 20-block fire line, burns ground + knocks enemies §7[2s CD]",
+
+  "tooltip.bliss_smp_mod.flux_gem.passive":   "§b§lPassive §r§7| §fElectric Touch §8— blue sparks orbit; zap nearby enemies every 2s for 4 HP",
+  "tooltip.bliss_smp_mod.flux_gem.active1":   "§3§lLeft-Hit §r§7| §fArc Tag §8— mark target; detonates chain lightning in 3s §7[3s CD]",
+  "tooltip.bliss_smp_mod.flux_gem.active2":   "§3§lRight-Click §r§7| §fThundergod §8— strike all enemies in 32 blocks with real lightning, 16 HP §7[2m CD]",
+
+  "tooltip.bliss_smp_mod.life_gem.passive":   "§a§lPassive §r§7| §fLife Surge §8— permanent Absorption I; death save once every 10 min",
+  "tooltip.bliss_smp_mod.life_gem.active1":   "§2§lLeft-Hit §r§7| §fLife Steal §8— steal 4 HP from target into your HP bank (max 40 HP) §7[3s CD]",
+  "tooltip.bliss_smp_mod.life_gem.active2":   "§2§lRight-Click §r§7| §fBlood Bank §8— spend 4 HP from bank to heal yourself §7[3s CD]",
+
+  "tooltip.bliss_smp_mod.puff_gem.passive":   "§f§lPassive §r§7| §fAir Walker §8— permanent Jump Boost II; fall damage immunity after Jet Launch",
+  "tooltip.bliss_smp_mod.puff_gem.active1":   "§7§lRight-Click §r§7| §fVortex Chain §8— yank target + chain nearby mobs toward you §7[6s CD]",
+  "tooltip.bliss_smp_mod.puff_gem.active2":   "§7§lShift+RC §r§7| §fJet Launch §8— launch yourself in look direction at high speed §7[8s CD]",
+  "tooltip.bliss_smp_mod.puff_gem.active3":   "§7§lShift+Hit §r§7| §fSky Rip §8— fling target upward with Levitation IV for 5s §7[12s CD]",
+
+  "tooltip.bliss_smp_mod.speed_gem.passive":  "§e§lPassive §r§7| §fSwiftness §8— permanent Speed II at all times",
+  "tooltip.bliss_smp_mod.speed_gem.active1":  "§6§lRight-Click §r§7| §fSonic Dash §8— blast yourself forward at 3x speed §7[6s CD]",
+  "tooltip.bliss_smp_mod.speed_gem.active2":  "§6§lLeft-Hit §r§7| §fStun Strike §8— freeze target (2s) then Slowness for 4s §7[8s CD]",
+
+  "tooltip.bliss_smp_mod.wealth_gem.passive": "§e§lPassive §r§7| §fFortune Aura §8— Luck IV + Hero of the Village; 50% chance of bonus ore drop",
+  "tooltip.bliss_smp_mod.wealth_gem.active1": "§6§lRight-Click §r§7| §fOre Sense §8— highlight all exposed ores within 8 blocks §7[15s CD]",
+  "tooltip.bliss_smp_mod.wealth_gem.active2": "§6§lLeft-Hit §r§7| §fGreed Drain §8— steal XP + chance to steal 1 item from players; XP from mobs §7[12s CD]",
+  "tooltip.bliss_smp_mod.wealth_gem.active3": "§6§lShift+RC §r§7| §fLoot Drop §8— roll for rare loot (1% epic, 2% netherite, 5% notch apple) §7[20s CD]",
+
+  "tooltip.bliss_smp_mod.strength_gem.passive": "§4§lPassive §r§7| §fGlass Cannon §8— max Strength always; take 25% more damage from all sources",
+  "tooltip.bliss_smp_mod.strength_gem.active1": "§c§lLeft-Hit §r§7| §fBerserker Strike §8— next sword hit = 3x damage. Miss = Weakness II for 5s §7[10s CD]",
+  "tooltip.bliss_smp_mod.strength_gem.active2": "§c§lShift+RC §r§7| §fDeath Wish §8— double damage for 8s. Fail to deal 2x dmg taken → Weakness + Slowness §7[25s CD]"
+}

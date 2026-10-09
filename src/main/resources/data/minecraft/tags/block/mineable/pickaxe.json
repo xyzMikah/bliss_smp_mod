@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "bliss_smp_mod:astra_ore",
+    "bliss_smp_mod:life_ore",
+    "bliss_smp_mod:puff_ore",
+    "bliss_smp_mod:speed_ore",
+    "bliss_smp_mod:strength_ore",
+    "bliss_smp_mod:wealth_ore",
+
+    "bliss_smp_mod:end_stone_astra_ore",
+    "bliss_smp_mod:end_stone_life_ore",
+    "bliss_smp_mod:end_stone_puff_ore",
+    "bliss_smp_mod:end_stone_speed_ore",
+    "bliss_smp_mod:end_stone_strength_ore",
+    "bliss_smp_mod:end_stone_wealth_ore",
+
+    "bliss_smp_mod:netherrack_astra_ore",
+    "bliss_smp_mod:netherrack_life_ore",
+    "bliss_smp_mod:netherrack_puff_ore",
+    "bliss_smp_mod:netherrack_speed_ore",
+    "bliss_smp_mod:netherrack_strength_ore",
+    "bliss_smp_mod:netherrack_wealth_ore"
+  ]
+}

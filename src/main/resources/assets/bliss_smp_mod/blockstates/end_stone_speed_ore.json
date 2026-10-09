@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bliss_smp_mod:block/end_stone_speed_ore"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "bliss_smp_mod:raw_wealth",
+    "B": "minecraft:nether_star",
+    "E": "minecraft:netherite_ingot"
+  },
+  "pattern": [
+    "EAE",
+    "ABA",
+    "EAE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bliss_smp_mod:wealth_gem"
+  }
+}
